@@ -1,7 +1,6 @@
 <?php
 require ('model/config.php');
 require ('model/db-connect.php');
-require ('model/article-submit.php');
 include('views/header.html');
 include ('views/navbar.html');
 

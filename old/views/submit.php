@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row">
-        <form action="article-submit.php" class="col s12" method="post">
+        <form action="model/article-submit.php" class="col s12" method="post">
             <div class="input-field col s12">
                 <input placeholder="Article title" name="submit-title" type="text">
                 <label for="submit-title">Article Title</label>
